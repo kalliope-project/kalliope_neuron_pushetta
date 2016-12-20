@@ -14,6 +14,11 @@ This neuron is based on [Pushetta API](http://www.pushetta.com/).
 You need to [create a free account](http://www.pushetta.com/accounts/signup/) and a chanel before using it.
 You need to install a [client App](http://www.pushetta.com/pushetta-downloads/) on the target device.
 
+## Installation
+```
+kalliope neuron-install --git-url "https://github.com/kalliope-project/kalliope_neuron_pushetta.git"
+```
+
 ## Options
 
 | parameter    | requiered | default | choices | comment                                                                                               |
