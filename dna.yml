@@ -1,9 +1,13 @@
 ---
-   name: "push_message"
-   type: "neuron"
-   author: "Kalliope project team"
+  name: "push_message"
+  type: "neuron"
+  author: "Kalliope project team"
 
-   minimum_kalliope_version: 0.4.0
+  kalliope_supported_version:
+    - 0.4.0
 
-   tags:
-      - "Pushetta"
+  tags:
+    - "Pushetta"
+    - "messaging"
+    - "notification"
+    - "notifier"
