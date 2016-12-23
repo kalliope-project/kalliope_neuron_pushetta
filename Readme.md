@@ -52,3 +52,10 @@ The following synapse will send a push message to device that have subscribed to
 > **Note:** You must install a [client App](http://www.pushetta.com/pushetta-downloads/) on the target device.
 
 > **Note:** You must create a channel an get a token key on [Pushetta website](http://www.pushetta.com/) before using the neuron.
+
+## License
+
+Copyright (c) 2016. All rights reserved.
+
+Kalliope is covered by the MIT license, a permissive free software license that lets you do anything you want with the source code, 
+as long as you provide back attribution and ["don't hold you liable"](http://choosealicense.com/). For the full license text see the [LICENSE.md](LICENSE.md) file.
