@@ -16,7 +16,7 @@ You need to install a [client App](http://www.pushetta.com/pushetta-downloads/) 
 
 ## Installation
 ```
-kalliope install --git-url "https://github.com/kalliope-project/kalliope_neuron_pushetta.git"
+kalliope install --git-url https://github.com/kalliope-project/kalliope_neuron_pushetta.git
 ```
 
 ## Options
